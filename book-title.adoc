@@ -1,0 +1,34 @@
+:doctype: book
+
+= Petunjuk Teknis Sistem Jaringan Komputer dan Keamanan Jaringan
+Priyanto Tamami <tamami.oka@gmail.com>
+Badan Pendapatan Daerah Kabupaten Brebes
+
+
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Layanan
+:figure-caption: Gambar 
+:icons: font
+:sectnums:
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+include::{includedir}/001-tujuan-sasaran.adoc[]
+
+include::{includedir}/002-tanggal-versi.adoc[]
+
+include::{includedir}/003-butir-petunjuk.adoc[]
+
+include::{includedir}/004-dasar-rujukan.adoc[]
+
+include::{includedir}/005-dasar-kebijakan.adoc[]
+
+include::{includedir}/006-pengesahan.adoc[]
